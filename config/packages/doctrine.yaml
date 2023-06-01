@@ -1,0 +1,8 @@
+doctrine:
+    dbal:
+        # Configuración de la conexión a la base de datos
+        dbname: tocreat
+        host: db
+        port: 3306
+        user: root
+        password: test
