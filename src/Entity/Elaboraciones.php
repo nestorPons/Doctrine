@@ -73,7 +73,7 @@ class Elaboraciones
     /**
      * @var \DateTime
      *
-     * @ORM\Column(name="fecha_elaboracion", type="datetime", nullable=false, options={"default"="CURRENT_TIMESTAMP"})
+     * @ORM\Column(name="fecha_creacion", type="datetime", nullable=false, options={"default"="CURRENT_TIMESTAMP"})
      */
     private $fechaCreacion = 'CURRENT_TIMESTAMP';
 
